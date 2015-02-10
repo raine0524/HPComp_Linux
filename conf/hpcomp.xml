@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<local id="comdevlinux" ability="2">
+		<log level="3" />
+	</local>
+
+	<!-- Center Server -->
+	<server host="192.168.11.157" port="4222" />
+</config>
